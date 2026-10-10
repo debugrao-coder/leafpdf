@@ -51,6 +51,7 @@ PDFium 固定为 [157.0.8086.0 / chromium/8086](https://github.com/bblanchon/pdf
 
 ```powershell
 python -m pip install -r scripts/requirements-dev.txt
+python scripts/download-pdfium.py
 python scripts/generate-fixtures.py
 python scripts/test-release.py
 cargo fmt --check
