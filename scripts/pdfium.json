@@ -1,0 +1,7 @@
+{
+  "version": "157.0.8086.0",
+  "release": "chromium/8086",
+  "url": "https://github.com/bblanchon/pdfium-binaries/releases/download/chromium%2F8086/pdfium-win-x64.tgz",
+  "archive_sha256": "1fd8af952832dbb0eb16d9249f68fe09e5f5ebf7c3dd9f6066ea2720cc28487d",
+  "dll_sha256": "1f2aee4286b8cf0413ab4562b7121aa454f9cfd9afd6ca8609bcef80927b3f80"
+}
